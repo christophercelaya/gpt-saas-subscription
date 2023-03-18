@@ -147,7 +147,7 @@ class Login extends Component {
 				{this.errorMessage}
 				</div> : null}
 				</div>
-				<a href={`https://www.google.com/`} className="block text-center bg-gray-100 text-gray-500 text-sm p-3 rounded-b-lg hover:bg-gray-200 cursor-pointer">
+				<a href={`https://unitelligent.xyz/`} className="block text-center bg-gray-100 text-gray-500 text-sm p-3 rounded-b-lg hover:bg-gray-200 cursor-pointer">
 					Back to landing page
 				</a>
 			</div>
@@ -186,7 +186,7 @@ class Login extends Component {
 						signUp Google
 						</div>
 						 */}
-						<a href={`https://localhost:3080`} className="mt-4 text-gray-400 text-sm">Forgot your password?</a>
+						<a href={`https://unitelligent.xyz`} className="mt-4 text-gray-400 text-sm">Forgot your password?</a>
 					</div>
                     </div>
                   </form>

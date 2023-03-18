@@ -3,6 +3,7 @@ node -v
 npm -v
 python -v
 
+# update url in Login.js & config.js if deploying live
 # Make sure you run the following if you get any errors.
 nvm use v14.20.6
 # nvm use v14.17.6
@@ -22,6 +23,7 @@ npm i --unsafe-perm node-sass
 # run frontend by using 
 npm run api
 # make sure node v14.17.6 is actively installed
+
 
 
 

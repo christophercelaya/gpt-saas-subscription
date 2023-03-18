@@ -23,15 +23,11 @@ Prepare the following items
 
 
 
-
-
-
-
 ### Installation
 
-- Perform a NPM install or Yarn in the rood directory to install modules
+- Perform a NPM install or Yarn in the rood directory to install modules (yarn works on mac)
 - Update the ENV keys (or ENV.DEV) for your environemnt (for OpenAI, Mongo Etc)
-- - MongoDB requires Cluster, Database, Username and Password
+- MongoDB requires Cluster, Database, Username and Password
 - For PC `npm run api` to start the instance of the project
 - For Mac `npm run apimac` to start the instance of the project
 - Start the Create React App using `npm start`

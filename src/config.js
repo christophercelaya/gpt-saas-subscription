@@ -10,7 +10,7 @@ const dev = {
   
 const prod = {
 	baseURL: '/api/',
-	landingPageUrl: "https://app.openaitemplate.com",
+	landingPageUrl: "http://localhost:3080",
 	stripe: {
 		free: "price_1JcQsUHIZYvvnKlaEPy958NF",
 		entry: "price_1JLpWpHIZYvvnKlaHxiCr7Js",

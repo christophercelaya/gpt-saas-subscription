@@ -2,7 +2,7 @@ const dev = {
 	// baseURL: "http://localhost:3080/api/",
 	baseURL: "http://unitelligent.xyz:3080/api/",
 	// landingPageUrl: "http://localhost:3080",
-	landingPageUrl: "http://unitelligent.xyz:3080/api/",
+	landingPageUrl: "https://unitelligent.xyz:3080/api/",
 	stripe: {
 		free: "price_1JcQD6HIZYvvnKladKayEvOZ",
 		entry: "price_1JL68HHIZYvvnKlaBJWS5uDe",
@@ -12,7 +12,7 @@ const dev = {
   
 const prod = {
 	baseURL: '/api/',
-	landingPageUrl: "http://unitelligent.xyz",
+	landingPageUrl: "https://unitelligent.xyz",
 	stripe: {
 		free: "price_1JcQsUHIZYvvnKlaEPy958NF",
 		entry: "price_1JLpWpHIZYvvnKlaHxiCr7Js",

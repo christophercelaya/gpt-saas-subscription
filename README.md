@@ -21,6 +21,12 @@ Prepare the following items
 - NodeJS
 - StripeJS (not required unless implementing billing)
 
+
+
+
+
+
+
 ### Installation
 
 - Perform a NPM install or Yarn in the rood directory to install modules

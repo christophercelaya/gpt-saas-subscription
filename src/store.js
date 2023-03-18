@@ -77,7 +77,7 @@ class appStore {
 		}
 	}
 
-	@observable referral = ""
+	@observable referral = "referral"
 
 	referralTrackingCode = async () => {
 		let referral = new URLSearchParams(window.location.search).get("referral")

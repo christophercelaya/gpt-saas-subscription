@@ -2,7 +2,6 @@
 This project is a starter kit for using OpenAI and its API layer. It is baked in with Authentication, Session Management, Token Tracking, as well as Billing (currently disabled).
 
 ## Introduction
-
 To start using the project, you will need the following. Node version 14 or above, MongoDB Cloud, an OpenAI account and key and Python.
 
 ### Current Configuration
@@ -13,9 +12,7 @@ These are quite important as they can effect the installation and dependencies o
 - Python Version 2.7
 
 ### Starting Guide
-
 Prepare the following items
-
 - OpenAI account + API Key
 - MongoDB Cloud instance database (free tier) + Cluster/Login
 - NodeJS
@@ -24,8 +21,7 @@ Prepare the following items
 
 
 ### Installation
-
-- Perform a NPM install or Yarn in the rood directory to install modules (yarn works on mac)
+- Perform a NPM install or Yarn in the root directory to install modules (yarn works on mac)
 - Update the ENV keys (or ENV.DEV) for your environemnt (for OpenAI, Mongo Etc)
 - MongoDB requires Cluster, Database, Username and Password
 - For PC `npm run api` to start the instance of the project

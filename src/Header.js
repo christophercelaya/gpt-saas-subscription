@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { observer, inject } from 'mobx-react'
 import { computed,  } from 'mobx'
 import { NavLink } from 'react-router-dom'
+// eslint-disable-next-line
 import { SwitchHorizontalIcon, ScaleIcon, DatabaseIcon, UserCircleIcon,
 } from '@heroicons/react/outline'
 
